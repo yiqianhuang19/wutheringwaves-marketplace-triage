@@ -1,0 +1,16 @@
+# Local dependency folders
+node_modules/
+
+# Python runtime caches
+__pycache__/
+*.py[cod]
+
+# Local secrets and environment files
+.env
+.env.*
+
+# Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Final report is submitted separately and contains student identification
+docs/PE6201_Final_Report_Huang_Yiqian.docx
